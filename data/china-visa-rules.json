@@ -1,0 +1,884 @@
+{
+  "name": "China visa-free entry rules by nationality",
+  "publisher": "OttoLux (https://otto-lux.com)",
+  "website": "https://chinavisacheck.com",
+  "updated": "2026-09-29",
+  "license": "CC BY 4.0, attribution to chinavisacheck.com",
+  "scope": "Ordinary passports, mainland China",
+  "policies": {
+    "unilateral_30_day": {
+      "stay_days": 30,
+      "ports": "All ports open to foreigners",
+      "countries": [
+        {
+          "country": "France",
+          "iso2": "FR",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Netherlands",
+          "iso2": "NL",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Belgium",
+          "iso2": "BE",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Luxembourg",
+          "iso2": "LU",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Germany",
+          "iso2": "DE",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Switzerland",
+          "iso2": "CH",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Austria",
+          "iso2": "AT",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Liechtenstein",
+          "iso2": "LI",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Andorra",
+          "iso2": "AD",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Portugal",
+          "iso2": "PT",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Spain",
+          "iso2": "ES",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Monaco",
+          "iso2": "MC",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Italy",
+          "iso2": "IT",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Cyprus",
+          "iso2": "CY",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Malta",
+          "iso2": "MT",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Ireland",
+          "iso2": "IE",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Iceland",
+          "iso2": "IS",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Finland",
+          "iso2": "FI",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Norway",
+          "iso2": "NO",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Denmark",
+          "iso2": "DK",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Estonia",
+          "iso2": "EE",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Latvia",
+          "iso2": "LV",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Greece",
+          "iso2": "GR",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Bulgaria",
+          "iso2": "BG",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Croatia",
+          "iso2": "HR",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Hungary",
+          "iso2": "HU",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Montenegro",
+          "iso2": "ME",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "North Macedonia",
+          "iso2": "MK",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Poland",
+          "iso2": "PL",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Romania",
+          "iso2": "RO",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Slovakia",
+          "iso2": "SK",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Slovenia",
+          "iso2": "SI",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Sweden",
+          "iso2": "SE",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "United Kingdom",
+          "iso2": "GB",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Canada",
+          "iso2": "CA",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Australia",
+          "iso2": "AU",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "New Zealand",
+          "iso2": "NZ",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Japan",
+          "iso2": "JP",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "South Korea",
+          "iso2": "KR",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Brazil",
+          "iso2": "BR",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Argentina",
+          "iso2": "AR",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Chile",
+          "iso2": "CL",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Peru",
+          "iso2": "PE",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Uruguay",
+          "iso2": "UY",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Saudi Arabia",
+          "iso2": "SA",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Oman",
+          "iso2": "OM",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Kuwait",
+          "iso2": "KW",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Bahrain",
+          "iso2": "BH",
+          "valid_until": "2026-12-31"
+        },
+        {
+          "country": "Russia",
+          "iso2": "RU",
+          "valid_until": "2027-12-31"
+        },
+        {
+          "country": "Brunei",
+          "iso2": "BN",
+          "valid_until": null
+        }
+      ]
+    },
+    "mutual_exemption": {
+      "stay_days": "Usually 30 per entry",
+      "countries": [
+        {
+          "country": "United Arab Emirates",
+          "iso2": "AE"
+        },
+        {
+          "country": "Georgia",
+          "iso2": "GE"
+        },
+        {
+          "country": "Kazakhstan",
+          "iso2": "KZ"
+        },
+        {
+          "country": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "country": "Maldives",
+          "iso2": "MV"
+        },
+        {
+          "country": "Thailand",
+          "iso2": "TH"
+        },
+        {
+          "country": "Singapore",
+          "iso2": "SG"
+        },
+        {
+          "country": "Malaysia",
+          "iso2": "MY"
+        },
+        {
+          "country": "Armenia",
+          "iso2": "AM"
+        },
+        {
+          "country": "Azerbaijan",
+          "iso2": "AZ"
+        },
+        {
+          "country": "Uzbekistan",
+          "iso2": "UZ"
+        },
+        {
+          "country": "San Marino",
+          "iso2": "SM"
+        },
+        {
+          "country": "Serbia",
+          "iso2": "RS"
+        },
+        {
+          "country": "Belarus",
+          "iso2": "BY"
+        },
+        {
+          "country": "Bosnia and Herzegovina",
+          "iso2": "BA"
+        },
+        {
+          "country": "Albania",
+          "iso2": "AL"
+        },
+        {
+          "country": "Bahamas",
+          "iso2": "BS"
+        },
+        {
+          "country": "Grenada",
+          "iso2": "GD"
+        },
+        {
+          "country": "Barbados",
+          "iso2": "BB"
+        },
+        {
+          "country": "Dominica",
+          "iso2": "DM"
+        },
+        {
+          "country": "Antigua and Barbuda",
+          "iso2": "AG"
+        },
+        {
+          "country": "Suriname",
+          "iso2": "SR"
+        },
+        {
+          "country": "Seychelles",
+          "iso2": "SC"
+        },
+        {
+          "country": "Mauritius",
+          "iso2": "MU"
+        },
+        {
+          "country": "Fiji",
+          "iso2": "FJ"
+        },
+        {
+          "country": "Tonga",
+          "iso2": "TO"
+        },
+        {
+          "country": "Samoa",
+          "iso2": "WS"
+        },
+        {
+          "country": "Solomon Islands",
+          "iso2": "SB"
+        },
+        {
+          "country": "Ecuador",
+          "iso2": "EC"
+        }
+      ]
+    },
+    "transit_240_hour": {
+      "stay_hours": 240,
+      "ports": 65,
+      "provinces": 24,
+      "requirement": "Confirmed onward ticket to a third country or region",
+      "countries": [
+        {
+          "country": "Austria",
+          "iso2": "AT"
+        },
+        {
+          "country": "Belgium",
+          "iso2": "BE"
+        },
+        {
+          "country": "Czech Republic",
+          "iso2": "CZ"
+        },
+        {
+          "country": "Denmark",
+          "iso2": "DK"
+        },
+        {
+          "country": "Estonia",
+          "iso2": "EE"
+        },
+        {
+          "country": "Finland",
+          "iso2": "FI"
+        },
+        {
+          "country": "France",
+          "iso2": "FR"
+        },
+        {
+          "country": "Germany",
+          "iso2": "DE"
+        },
+        {
+          "country": "Greece",
+          "iso2": "GR"
+        },
+        {
+          "country": "Hungary",
+          "iso2": "HU"
+        },
+        {
+          "country": "Iceland",
+          "iso2": "IS"
+        },
+        {
+          "country": "Italy",
+          "iso2": "IT"
+        },
+        {
+          "country": "Latvia",
+          "iso2": "LV"
+        },
+        {
+          "country": "Lithuania",
+          "iso2": "LT"
+        },
+        {
+          "country": "Luxembourg",
+          "iso2": "LU"
+        },
+        {
+          "country": "Malta",
+          "iso2": "MT"
+        },
+        {
+          "country": "Netherlands",
+          "iso2": "NL"
+        },
+        {
+          "country": "Poland",
+          "iso2": "PL"
+        },
+        {
+          "country": "Portugal",
+          "iso2": "PT"
+        },
+        {
+          "country": "Slovakia",
+          "iso2": "SK"
+        },
+        {
+          "country": "Slovenia",
+          "iso2": "SI"
+        },
+        {
+          "country": "Spain",
+          "iso2": "ES"
+        },
+        {
+          "country": "Sweden",
+          "iso2": "SE"
+        },
+        {
+          "country": "Switzerland",
+          "iso2": "CH"
+        },
+        {
+          "country": "Monaco",
+          "iso2": "MC"
+        },
+        {
+          "country": "Russia",
+          "iso2": "RU"
+        },
+        {
+          "country": "United Kingdom",
+          "iso2": "GB"
+        },
+        {
+          "country": "Ireland",
+          "iso2": "IE"
+        },
+        {
+          "country": "Cyprus",
+          "iso2": "CY"
+        },
+        {
+          "country": "Bulgaria",
+          "iso2": "BG"
+        },
+        {
+          "country": "Romania",
+          "iso2": "RO"
+        },
+        {
+          "country": "Ukraine",
+          "iso2": "UA"
+        },
+        {
+          "country": "Serbia",
+          "iso2": "RS"
+        },
+        {
+          "country": "Croatia",
+          "iso2": "HR"
+        },
+        {
+          "country": "Bosnia and Herzegovina",
+          "iso2": "BA"
+        },
+        {
+          "country": "Montenegro",
+          "iso2": "ME"
+        },
+        {
+          "country": "North Macedonia",
+          "iso2": "MK"
+        },
+        {
+          "country": "Albania",
+          "iso2": "AL"
+        },
+        {
+          "country": "Belarus",
+          "iso2": "BY"
+        },
+        {
+          "country": "Norway",
+          "iso2": "NO"
+        },
+        {
+          "country": "United States",
+          "iso2": "US"
+        },
+        {
+          "country": "Canada",
+          "iso2": "CA"
+        },
+        {
+          "country": "Brazil",
+          "iso2": "BR"
+        },
+        {
+          "country": "Mexico",
+          "iso2": "MX"
+        },
+        {
+          "country": "Argentina",
+          "iso2": "AR"
+        },
+        {
+          "country": "Chile",
+          "iso2": "CL"
+        },
+        {
+          "country": "Australia",
+          "iso2": "AU"
+        },
+        {
+          "country": "New Zealand",
+          "iso2": "NZ"
+        },
+        {
+          "country": "South Korea",
+          "iso2": "KR"
+        },
+        {
+          "country": "Japan",
+          "iso2": "JP"
+        },
+        {
+          "country": "Singapore",
+          "iso2": "SG"
+        },
+        {
+          "country": "Brunei",
+          "iso2": "BN"
+        },
+        {
+          "country": "United Arab Emirates",
+          "iso2": "AE"
+        },
+        {
+          "country": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "country": "Indonesia",
+          "iso2": "ID"
+        },
+        {
+          "country": "Vietnam",
+          "iso2": "VN"
+        },
+        {
+          "country": "Kyrgyzstan",
+          "iso2": "KG"
+        }
+      ]
+    },
+    "hainan_30_day": {
+      "stay_days": 30,
+      "area": "Hainan Province only",
+      "countries": [
+        {
+          "country": "Austria",
+          "iso2": "AT"
+        },
+        {
+          "country": "Belgium",
+          "iso2": "BE"
+        },
+        {
+          "country": "Czech Republic",
+          "iso2": "CZ"
+        },
+        {
+          "country": "Denmark",
+          "iso2": "DK"
+        },
+        {
+          "country": "Estonia",
+          "iso2": "EE"
+        },
+        {
+          "country": "Finland",
+          "iso2": "FI"
+        },
+        {
+          "country": "France",
+          "iso2": "FR"
+        },
+        {
+          "country": "Germany",
+          "iso2": "DE"
+        },
+        {
+          "country": "Greece",
+          "iso2": "GR"
+        },
+        {
+          "country": "Hungary",
+          "iso2": "HU"
+        },
+        {
+          "country": "Iceland",
+          "iso2": "IS"
+        },
+        {
+          "country": "Italy",
+          "iso2": "IT"
+        },
+        {
+          "country": "Latvia",
+          "iso2": "LV"
+        },
+        {
+          "country": "Lithuania",
+          "iso2": "LT"
+        },
+        {
+          "country": "Luxembourg",
+          "iso2": "LU"
+        },
+        {
+          "country": "Malta",
+          "iso2": "MT"
+        },
+        {
+          "country": "Netherlands",
+          "iso2": "NL"
+        },
+        {
+          "country": "Poland",
+          "iso2": "PL"
+        },
+        {
+          "country": "Portugal",
+          "iso2": "PT"
+        },
+        {
+          "country": "Slovakia",
+          "iso2": "SK"
+        },
+        {
+          "country": "Slovenia",
+          "iso2": "SI"
+        },
+        {
+          "country": "Spain",
+          "iso2": "ES"
+        },
+        {
+          "country": "Sweden",
+          "iso2": "SE"
+        },
+        {
+          "country": "Switzerland",
+          "iso2": "CH"
+        },
+        {
+          "country": "Monaco",
+          "iso2": "MC"
+        },
+        {
+          "country": "Russia",
+          "iso2": "RU"
+        },
+        {
+          "country": "United Kingdom",
+          "iso2": "GB"
+        },
+        {
+          "country": "Ireland",
+          "iso2": "IE"
+        },
+        {
+          "country": "Cyprus",
+          "iso2": "CY"
+        },
+        {
+          "country": "Bulgaria",
+          "iso2": "BG"
+        },
+        {
+          "country": "Romania",
+          "iso2": "RO"
+        },
+        {
+          "country": "Ukraine",
+          "iso2": "UA"
+        },
+        {
+          "country": "Serbia",
+          "iso2": "RS"
+        },
+        {
+          "country": "Croatia",
+          "iso2": "HR"
+        },
+        {
+          "country": "Bosnia and Herzegovina",
+          "iso2": "BA"
+        },
+        {
+          "country": "Montenegro",
+          "iso2": "ME"
+        },
+        {
+          "country": "North Macedonia",
+          "iso2": "MK"
+        },
+        {
+          "country": "Albania",
+          "iso2": "AL"
+        },
+        {
+          "country": "Belarus",
+          "iso2": "BY"
+        },
+        {
+          "country": "Norway",
+          "iso2": "NO"
+        },
+        {
+          "country": "United States",
+          "iso2": "US"
+        },
+        {
+          "country": "Canada",
+          "iso2": "CA"
+        },
+        {
+          "country": "Brazil",
+          "iso2": "BR"
+        },
+        {
+          "country": "Mexico",
+          "iso2": "MX"
+        },
+        {
+          "country": "Argentina",
+          "iso2": "AR"
+        },
+        {
+          "country": "Chile",
+          "iso2": "CL"
+        },
+        {
+          "country": "Australia",
+          "iso2": "AU"
+        },
+        {
+          "country": "New Zealand",
+          "iso2": "NZ"
+        },
+        {
+          "country": "South Korea",
+          "iso2": "KR"
+        },
+        {
+          "country": "Japan",
+          "iso2": "JP"
+        },
+        {
+          "country": "Singapore",
+          "iso2": "SG"
+        },
+        {
+          "country": "Brunei",
+          "iso2": "BN"
+        },
+        {
+          "country": "United Arab Emirates",
+          "iso2": "AE"
+        },
+        {
+          "country": "Qatar",
+          "iso2": "QA"
+        },
+        {
+          "country": "Indonesia",
+          "iso2": "ID"
+        },
+        {
+          "country": "Vietnam",
+          "iso2": "VN"
+        },
+        {
+          "country": "Kyrgyzstan",
+          "iso2": "KG"
+        },
+        {
+          "country": "Malaysia",
+          "iso2": "MY"
+        },
+        {
+          "country": "Thailand",
+          "iso2": "TH"
+        },
+        {
+          "country": "Kazakhstan",
+          "iso2": "KZ"
+        },
+        {
+          "country": "Philippines",
+          "iso2": "PH"
+        }
+      ]
+    },
+    "airside_24_hour": {
+      "applies_to": "All passports",
+      "note": "Direct transit without leaving the airport"
+    }
+  },
+  "sources": [
+    "https://cs.mfa.gov.cn/gyls/lsgz/fwxx/202602/t20260215_11860470.shtml",
+    "https://ca.china-embassy.gov.cn/lsyw/lszj/mqzc00/gbrjmq00/202501/t20250116_11535148.htm",
+    "https://www.news.cn/20260820/5dc69b0a18a942f1aedc927f700b4deb/c.html",
+    "https://cs.mfa.gov.cn/gyls/lsgz/fwxx/202504/t20250414_11594222.shtml",
+    "https://en.nia.gov.cn/n147418/n147463/c183390/content.html"
+  ]
+}
