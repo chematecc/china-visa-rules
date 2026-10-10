@@ -4,7 +4,7 @@
   "website": "https://chinavisacheck.com",
   "updated": "2026-09-29",
   "last_changed": "2026-09-29",
-  "last_verified": "2026-10-02",
+  "last_verified": "2026-10-07",
   "license": "CC BY 4.0, attribution to chinavisacheck.com",
   "scope": "Ordinary passports, mainland China",
   "policies": {
@@ -875,6 +875,10 @@
       "applies_to": "All passports",
       "note": "Direct transit without leaving the airport"
     }
+  },
+  "decision_2027": {
+    "status": "pending",
+    "ends_unless_renewed": "2026-12-31"
   },
   "sources": [
     "https://cs.mfa.gov.cn/gyls/lsgz/fwxx/202602/t20260215_11860470.shtml",

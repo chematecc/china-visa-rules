@@ -2,7 +2,7 @@
 
 Which ordinary passports can enter **mainland China without a visa**, under which policy, and until when. One row per passport (194), checked daily against official Chinese sources.
 
-**Rules last changed 2026-09-29.** This copy was checked against the official sources on 2026-10-02; the live answers for every passport, in 9 languages, and the latest check date are at **[chinavisacheck.com](https://chinavisacheck.com/china-visa/)**
+**Rules last changed 2026-09-29.** This copy was checked against the official sources on 2026-10-07; the live answers for every passport, in 9 languages, and the latest check date are at **[chinavisacheck.com](https://chinavisacheck.com/china-visa/)**
 
 | Policy | Countries | Stay | Notes |
 |---|---|---|---|
