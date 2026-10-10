@@ -2,7 +2,7 @@
 
 Which ordinary passports can enter **mainland China without a visa**, under which policy, and until when. One row per passport (194), checked daily against official Chinese sources.
 
-**Rules last changed 2026-09-29.** This copy was checked against the official sources on 2026-10-07; the live answers for every passport, in 9 languages, and the latest check date are at **[chinavisacheck.com](https://chinavisacheck.com/china-visa/)**
+**Rules last changed 2026-09-29.** This copy was checked against the official sources on 2026-10-10; the live answers for every passport, in 10 languages, and the latest check date are at **[chinavisacheck.com](https://chinavisacheck.com/china-visa/)**
 
 | Policy | Countries | Stay | Notes |
 |---|---|---|---|
@@ -22,10 +22,10 @@ Visa-free entry covers tourism, business, visiting family and friends, exchange 
 
 ## Official sources
 
-- https://cs.mfa.gov.cn/gyls/lsgz/fwxx/202602/t20260215_11860470.shtml
+- https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/
 - https://ca.china-embassy.gov.cn/lsyw/lszj/mqzc00/gbrjmq00/202501/t20250116_11535148.htm
 - https://www.news.cn/20260820/5dc69b0a18a942f1aedc927f700b4deb/c.html
-- https://cs.mfa.gov.cn/gyls/lsgz/fwxx/202504/t20250414_11594222.shtml
+- https://cs.mfa.gov.cn/lh/lhqz_149493/list/
 - https://en.nia.gov.cn/n147418/n147463/c183390/content.html
 
 Rules change; the 30-day list is due to expire on 2026-12-31 unless China extends it. Check the date above, or the live answer at [chinavisacheck.com](https://chinavisacheck.com/china-visa/), before relying on a row. Not legal advice; not a government source.

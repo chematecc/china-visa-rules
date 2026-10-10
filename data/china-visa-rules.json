@@ -4,7 +4,7 @@
   "website": "https://chinavisacheck.com",
   "updated": "2026-09-29",
   "last_changed": "2026-09-29",
-  "last_verified": "2026-10-07",
+  "last_verified": "2026-10-10",
   "license": "CC BY 4.0, attribution to chinavisacheck.com",
   "scope": "Ordinary passports, mainland China",
   "policies": {
@@ -881,10 +881,10 @@
     "ends_unless_renewed": "2026-12-31"
   },
   "sources": [
-    "https://cs.mfa.gov.cn/gyls/lsgz/fwxx/202602/t20260215_11860470.shtml",
+    "https://cs.mfa.gov.cn/lh/lhqz_149493/cjwd/",
     "https://ca.china-embassy.gov.cn/lsyw/lszj/mqzc00/gbrjmq00/202501/t20250116_11535148.htm",
     "https://www.news.cn/20260820/5dc69b0a18a942f1aedc927f700b4deb/c.html",
-    "https://cs.mfa.gov.cn/gyls/lsgz/fwxx/202504/t20250414_11594222.shtml",
+    "https://cs.mfa.gov.cn/lh/lhqz_149493/list/",
     "https://en.nia.gov.cn/n147418/n147463/c183390/content.html"
   ]
 }
