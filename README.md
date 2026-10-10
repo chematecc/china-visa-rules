@@ -30,6 +30,18 @@ Visa-free entry covers tourism, business, visiting family and friends, exchange 
 
 Rules change; the 30-day list is due to expire on 2026-12-31 unless China extends it. Check the date above, or the live answer at [chinavisacheck.com](https://chinavisacheck.com/china-visa/), before relying on a row. Not legal advice; not a government source.
 
+## Show the answer on your own site
+
+A free checker for any website: visitors pick their passport and see whether they need a visa for China. It is served from chinavisacheck.com, so it follows the rules when they change. No sign-up, no ads, no cookies. Paste this where your site takes HTML (WordPress, Wix, Squarespace, Webflow, Shopify, Blogger, Google Sites):
+
+```html
+<iframe src="https://chinavisacheck.com/china-visa/embed" title="China Visa Check" width="100%" height="320" style="border:0;max-width:520px" loading="lazy"></iframe>
+<script>addEventListener("message",function(e){if(e.origin==="https://chinavisacheck.com"&&e.data&&e.data.cvcH)document.querySelectorAll('iframe[src^="https://chinavisacheck.com/"]').forEach(function(f){if(f.contentWindow===e.source)f.style.height=e.data.cvcH+"px"})})</script>
+<p><a href="https://chinavisacheck.com/china-visa/">China Visa Check</a></p>
+```
+
+Language, starting passport and light or dark colours: [settings and preview](https://chinavisacheck.com/china-visa/embed-widget). Code and examples: [china-visa-widget](https://github.com/chematecc/china-visa-widget).
+
 ## Licence
 
 [CC BY 4.0](LICENSE). Credit: **China Visa Check (chinavisacheck.com)**, published by OttoLux.
